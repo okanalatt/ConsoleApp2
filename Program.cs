@@ -50,13 +50,13 @@
             */
             //SORU: kullanıcıdan vize ve final notunu alıp vizenin 
             //yüzde 40 i fınalın yuzde 60 ı alıp toplayan ve sonucu gosteren bır program
-            Console.WriteLine("Vize notunu giriniz");
+            /*Console.WriteLine("Vize notunu giriniz");
             double vize =Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Final notunu gir:");
             double final = Convert.ToDouble(Console.ReadLine());
             double not = (vize * 40 / 100) + (final * 60 / 100);
             Console.WriteLine("Sonuc:{0}",not);
-            Console.ReadLine();
+            Console.ReadLine();*/
         }
     }
 }
